@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeerthiBeast
-- 👀 I’m interested in Data Structures and Algorithm
-- 🌱 I’m currently learning Artificial Inteligence and Data Science
+- 👀 I’m interested in AI and Game Development
+- 🌱 I’m currently pursuing a degree in Computer Science Engineering
 - 💞️ I’m looking to collaborate on (Currently Nothing)
 - 📫 You can reach me by my email keerthivasan000071@gmail.com
 
